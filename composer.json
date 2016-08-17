@@ -1,0 +1,13 @@
+{
+    "name": "wwwision/atompub-client",
+    "type": "typo3-flow-package",
+    "description": "",
+    "require": {
+        "typo3/flow": "~3.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Wwwision\\AtomPub\\Client\\": "Classes"
+        }
+    }
+}
